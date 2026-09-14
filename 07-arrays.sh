@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MOVIES =(
+MOVIES=(
   "Inception"
   "The Dark Knight"
   "Interstellar"

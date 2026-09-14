@@ -3,7 +3,7 @@
 # this is indicate the comment line in bash script
 
 PERSON1=Ramesh
-PERSON2=Rahim
+PERSON2=Suresh
 
 echo "$PERSON1 : Hi $PERSON2"
 echo "$PERSON2 : Hi $PERSON1"
